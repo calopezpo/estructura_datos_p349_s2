@@ -43,3 +43,5 @@ while izquierda <= derecha:
     else:
 
         derecha = medio - 1
+
+        asdasda
